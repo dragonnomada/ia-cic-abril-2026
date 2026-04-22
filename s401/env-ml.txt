@@ -1,0 +1,12 @@
+# Paquetes para un proyecto de ML
+
+# Manipulacion de datos
+numpy
+pandas
+
+# Visualizacion de datos
+matplotlib
+seaborn
+
+# Modelos y herramientas de ML
+scikit-learn

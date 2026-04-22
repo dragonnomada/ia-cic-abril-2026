@@ -1,0 +1,9 @@
+# Paquetes para el entorno de Webscriping
+
+numpy
+pandas
+
+matplotlib
+seaborn
+
+selenium

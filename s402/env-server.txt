@@ -1,0 +1,50 @@
+#
+# Entorno: Server (env-server)
+#
+# 1. Crear el entorno
+# -------------------------------------
+# python -m venv env-server
+# -------------------------------------
+# 
+# 2. Activar el entorno
+# 
+# > MACOS
+# -------------------------------------
+# source env-server/bin/activate
+# -------------------------------------
+# 
+# > WINDOWS
+# -------------------------------------
+# env-server\Scripts/activate
+# -------------------------------------
+# 
+# 3. Instalar las dependencias
+# -------------------------------------
+# pip install -r env-server
+# -------------------------------------
+#
+
+# SERVIDOR
+
+# FastAPI - Provee la definicion de un servidor (endpoints/rutas)
+fastapi
+# Pydantic - Estructura modelos de entrada y salida (o intermedios)
+pydantic
+
+# Uvicorn - Ejecuta un servidor (con capacidades de actualizar automaticamente)
+uvicorn
+
+# Requests - Lanzar peticiones al servidor
+requests
+
+# APLICACION
+
+gradio
+
+# ML/DL
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn

@@ -1,0 +1,17 @@
+torch
+transformers # HF
+accelerate
+huggingface_hub
+datasets
+pillow
+safetensors
+
+diffusers
+
+sentence-transformers
+
+scipy
+soundfile
+librosa
+torchcodec
+opencv-python
